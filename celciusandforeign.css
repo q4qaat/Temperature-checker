@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(73, 112, 170);
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+input{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(138, 14, 101);
+   
+}
+.second{
+    display: flex;
+    justify-content: space-evenly;
+}
+.second__first{
+    display: flex;
+    align-items: center;
+
+}
+.second__second{
+    display: flex;
+    align-items: center;
+}
+.second__first1{
+    background-color: rgb(254, 255, 255);
+    width: 25px;
+    height: 25px;
+    border-radius: 99px;
+position: absolute;
+margin-left: 99px;
+}
+.second__first2{
+    background-color: rgb(250, 250, 248);
+    margin-right: 30px;
+    position: absolute;
+    margin-left: 104px;
+    width: 15px;
+    height: 15px;
+    border-radius: 99px;
+}
+.second__second1{
+    background-color: rgb(244, 250, 250);
+    width: 25px;
+    height: 25px;
+    border-radius: 99px;
+position: absolute;
+margin-left: 99px;
+}
+.second__second2{
+    background-color: rgb(252, 252, 249);
+    margin-right: 30px;
+    position: absolute;
+    margin-left: 104px;
+    width: 15px;
+    height: 15px;
+    border-radius: 99px;
+}
+.lastbutton{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+button{
+    width: 100px;
+}
+.res{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px 0px 0px;
+}
+h4{
+    background-color: rgb(49, 48, 47);
+    width: 490px;
+    height: 320px;
+    font-size: 18px;
+    color: white;
+    margin-left: 6px;
+}
